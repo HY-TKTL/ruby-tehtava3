@@ -9,5 +9,3 @@ def kertoma(luku)
   end
   return tulos
 end
-
-kertoma(3)
